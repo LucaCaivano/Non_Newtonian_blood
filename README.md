@@ -3,7 +3,8 @@ Report for a project developed in **lifex**, a high-performance C++ Finite Eleme
 
 This project was at the basis of my master thesis, "Reduced Fluid-structure interaction and non-Newtonian models of blood flows for simulating the aortic valve", where I used the non-Newtonian model to study a Fluid-Structure Interaction problem in the proximity of a realistic aortic valve.
 
-Officail website: https://lifex.gitlab.io
+<img src="./media/velocity_streamline.gif" width="500" />
+
+Official website: https://lifex.gitlab.io
 
 
-<img src="./media/velocity_streamline.gif" width="300" />
