@@ -6,3 +6,4 @@ This project was at the basis of my master thesis, "Reduced Fluid-structure inte
 Officail website: https://lifex.gitlab.io
 
 
+<img src="./media/velocity_streamline.gif" width="300" />
